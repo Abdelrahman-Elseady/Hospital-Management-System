@@ -36,4 +36,4 @@ A desktop-based Hospital Management System built using **C# Windows Forms** and 
 
 7. **Medical History**  
    - Display complete medical history for a specific patient.
-# Hospital-Management-System
+
